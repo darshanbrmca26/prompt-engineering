@@ -1,0 +1,32 @@
+10.Problem Statement: AI-Powered Resume Bullet Point Generator
+
+
+Your task is to convert unstructured information about a student&#39;s project, internship, or
+achievement into professional, concise, and impactful resume bullet points.
+Instructions:
+1. Follow the structure: What → How → Measurable Impact → Outcome.
+2. Start each bullet point with a strong action verb such as Developed, Designed,
+Implemented, Automated, Optimized, or Analyzed.
+3. Include relevant technical skills, tools, programming languages, and technologies
+wherever provided.
+4. Include numerical metrics such as records processed, time saved, accuracy improved,
+or users served whenever actual data is available.
+5. Never fabricate statistics, percentages, achievements, or outcomes.
+6. If measurable data is unavailable, create a meaningful bullet point using the available
+information and suggest relevant metrics that could strengthen it.
+7. Keep the bullet points concise, professional, and suitable for a technical resume.
+8. Generate a maximum of two bullet points.
+9. Ensure every statement and claim is supported by the given input.
+10. Use professional language and relevant keywords to improve Applicant Tracking
+System (ATS) compatibility.
+Output Format:
+Resume Bullet Points:
+ [Generated professional resume bullet point]
+ [Second bullet point, if relevant]
+Suggested Metrics (if data is unavailable):
+ [List relevant measurable metrics that the candidate could provide.]
+
+
+
+output:
+
